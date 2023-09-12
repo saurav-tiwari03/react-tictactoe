@@ -9,7 +9,6 @@ Welcome to the Tic-Tac-Toe game project! This is a simple web-based Tic-Tac-Toe 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -69,10 +68,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch: `git push origin feature-name`.
 5. Create a pull request explaining your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-Enjoy playing Tic-Tac-Toe, and feel free to contribute or use this project as a starting point for your own games! If you have any questions or feedback, please don't hesitate to [contact me](mailto:your-email@example.com).
+Enjoy playing Tic-Tac-Toe, and feel free to contribute or use this project as a starting point for your own games! If you have any questions or feedback, please don't hesitate to [contact me](mailto:tiwarisaurav459@gmail.com).
